@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Astronomy
-permalink: /astronomy/
+title: Astrophotos
+permalink: /astrophotos/
 ---
 
 This page contains photos me and my brother took of objects in space.
