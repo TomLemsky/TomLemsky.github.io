@@ -4,7 +4,7 @@ title:  "Minecraft skin generation using Diffusion (with web demo)"
 date:   2022-11-13 20:00:00 +0100
 ---
 
-[Try my trained model here: https://huggingface.co/spaces/TomLemsky/this_skin_does_not_exist](https://huggingface.co/spaces/TomLemsky/this_skin_does_not_exist)
+[Try my skin generation model here: https://huggingface.co/spaces/TomLemsky/this_skin_does_not_exist](https://huggingface.co/spaces/TomLemsky/this_skin_does_not_exist)
 
 After I collected a data set of about 200 000 Minecraft skins and trained classifiers on it ([See this previous post](/2022/03/30/Classifying-Minecraft-Skins-by-Gender.html)),
 the obvious next step was to train a generative model on the same data.
